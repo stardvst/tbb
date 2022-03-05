@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\hello_tbb.cpp">
+    <ClCompile Include="src\hello_parallel_stl.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
