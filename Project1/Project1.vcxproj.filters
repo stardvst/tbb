@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\hello_parallel_stl.cpp">
+    <ClCompile Include="src\parallel_reduce_max.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
