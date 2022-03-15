@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\hello_flow_graph.cpp">
+    <ClCompile Include="src\flow_graph_join_node.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
