@@ -18,12 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="benchmark_fg_loop_per_worker.cpp" />
-    <ClCompile Include="benchmark_master_loop.cpp" />
-    <ClCompile Include="src\benchmark_fg_loop.cpp" />
-    <ClCompile Include="src\benchmark_serial.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
